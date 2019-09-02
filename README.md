@@ -8,4 +8,4 @@ Determining and Routing UAV Fleet for Agricultural Observation
 
 Schedule and Observation plans for UAVs
 
-visual and excel results
+results are represented visually and in excel file
